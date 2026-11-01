@@ -3,17 +3,6 @@
 
 Repositori ini berisi kode dan dokumentasi proyek penelitian untuk mengevaluasi kualitas layanan aplikasi **BCA Mobile** menggunakan pendekatan **SERVQUAL** (Service Quality) dan metode **Importance-Performance Analysis (IPA)**. Studi kasus dilakukan di lingkungan mahasiswa aktif Program Studi Statistika Universitas Islam Bandung (UNISBA).
 
----
-
-## Struktur Repositori
-├── deskripsi.xlsx/                       # Folder data kuesioner (raw & cleaned)
-├── R/                                    # Kumpulan script bahasa R
-│   ├── 01_sampel.R                       # Perhitungan ukuran sampel penelitian[cite: 1]
-│   ├── 02_Variabel_harapan.R             # Uji validitas & reliabilitas variabel Harapan[cite: 2]
-│   └── 03_Variabel_kinerja.R             # Uji validitas & reliabilitas variabel Kinerja[cite: 3]
-├── infografis bca.pdf/                   # Hasil visualisasi dan diagram kartesius IPA
-└── Keysha Jauzi Althaff_A_LapSurvei.pdf/ # Laporan lengkap penelitian (PDF)
-
 ## Tentang Penelitian
 # Objek Penelitian: 
 Pengguna aktif aplikasi BCA Mobile di kalangan Mahasiswa Statistika UNISBA.
