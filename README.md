@@ -1,0 +1,1 @@
+# servqual-ipa-bca-mobile
